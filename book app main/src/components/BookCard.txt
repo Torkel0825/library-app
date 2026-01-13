@@ -1,0 +1,43 @@
+// import {useState} from "react";
+import "../placeholder/BookCover.css";
+import lotrCover from "../placeholder/lotr_cover_v1.jpg";
+
+export default function BookCard({id, title, release, summary}) {
+  const sstack = [
+    {
+      id: 1,
+      title: "Lord Of The Rings",
+      cover: lotrCover,
+    },
+    // more books here
+    //
+  ];
+
+  const bookCover = sstack.find((book) => book.id === Number(id));
+  console.log("id:", id);
+  console.log("bookCover:", bookCover);
+
+  return (
+    <div style={{border: "solid orange", margin: "1.2rem", width: "200px"}}>
+      <img src={bookCover?.cover} alt={title} className="book-cover" />
+      {/* rest */}
+      <h6>{id}</h6>
+      <h3>{title}</h3>
+      <p>{summary}</p>
+      <p>Book</p>
+      <h6>{release}</h6>
+      {console.log("id:", id)}
+      {console.log("bookCover:", bookCover)}
+    </div>
+  );
+}
+
+// export default function BookCard() {
+//   return (
+//     <>
+//       <div>
+//         <img src={lotrCover} alt="text" />
+//       </div>
+//     </>
+//   );
+// }

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "release": 1954,
+    "summary": "A fantasy epic about the destruction of the One Ring."
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "release": 1949,
+    "summary": "A dystopian novel about totalitarianism and surveillance."
+  },
+  {
+    "id": 3,
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "release": 1962,
+    "summary": "A science fantasy novel about a young girl's mysterious journey."
+  },
+  {
+    "id": 4,
+    "title": "If Cats Disappeared from the World",
+    "author": "Genki Kawamura",
+    "release": 2012,
+    "summary": "A touching story about the value of life and the things we take for granted."
+  },
+  {
+    "id": 5,
+    "title": "The Anxious Generation",
+    "author": "Johnathan Haidt",
+    "release": 2020,
+    "summary": "An exploration of the mental health crisis among young people in the modern age."
+  },
+  {
+    "id": 6,
+    "title": "The Lathe of Heaven",
+    "author": "Ursula K. Le Guin",
+    "release": 1971,
+    "summary": "A science fiction novel about a man whose dreams can alter reality."
+  },
+  {
+    "id": 7,
+    "title": "Legends & Lattes",
+    "author": "Travis Baldree",
+    "release": 2022,
+    "summary": "A cozy fantasy novel about a retired adventurer opening a coffee shop."
+  },
+  {
+    "id": 8,
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "release": 2015,
+    "summary": "A fantasy novel blending romance and adventure in a faerie world."
+  },
+  {
+    "id": 9,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "release": 2020,
+    "summary": "A novel about a library that allows one to explore alternate lives."
+  },
+  {
+    "id": 10,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "release": 1965,
+    "summary": "A science fiction saga set on the desert planet Arrakis."
+  },
+  {
+    "id": 11,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "release": 1988,
+    "summary": "A philosophical novel about a shepherd's journey to find his personal legend."
+  },
+  {
+    "id": 12,
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "release": 2021,
+    "summary": "A fantasy novel about a young woman training to become a dragon rider."
+  },
+  {
+    "id": 13,
+    "title": "The Fifth Science",
+    "author": "Exurb1a",
+    "release": 2021,
+    "summary": "A speculative fiction novel exploring the future of humanity and technology."
+  },
+  {
+    "id": 14,
+    "title": "Odinsbarn",
+    "author": "Siri Pettersen",
+    "release": 2013,
+    "summary": "A Norwegian fantasy novel inspired by Norse mythology."
+  },
+  {
+    "id": 15,
+    "title": "Star Wars: Thrawn",
+    "author": "Timothy Zahn",
+    "release": 1991,
+    "summary": "A military science fiction novel about the rise of Grand Admiral Thrawn in the Star Wars universe."
+  }
+]
