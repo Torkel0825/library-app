@@ -1,8 +1,8 @@
 import booksData from "../data/books.json";
 import BookList from "./BookList";
 
-//
-
+// https://raw.githubusercontent.com/Torkel0825/library-app/refs/heads/main/book%20app%20main/src/data/books.json
+ 
 export default function BookArchive() {
   // automatically import all jpgs in placeholder
   const images = import.meta.glob("../placeholder/*jpg", {
