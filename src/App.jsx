@@ -4,7 +4,6 @@ import BookArchive from "./components/BookArchive";
 function App() {
   return (
     <>
-      <div>hi</div>
       <BookArchive />
     </>
   );
